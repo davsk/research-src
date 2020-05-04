@@ -4,9 +4,9 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
-URL = ""
+URL = "Legal"
 name = "Legal"
-weight = ""
+weight = "8"
 [[menu.main]]
 URL = "about"
 name = "About"
